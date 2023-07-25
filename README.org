@@ -1,0 +1,10 @@
+* cl-interval
+
+Intervals and interval trees for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpav/cl-interval.git   |
+| commit  | 2ffd799  |
+| systems | cl-interval |
+|---------+-------------------------------------------|
+
